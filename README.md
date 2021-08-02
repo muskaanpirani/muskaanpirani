@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaanpirani&label=Profile%20views&color=0e75b6&style=flat" alt="muskaanpirani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskaanpirani" alt="muskaanpirani" /></a> </p>
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskaanpirani" alt="muskaanpirani" /></a> </p>--->
 
 <p align="left"> <a href="https://twitter.com/muskaanpirani7" target="blank"><img src="https://img.shields.io/twitter/follow/muskaanpirani7?logo=twitter&style=for-the-badge" alt="muskaanpirani7" /></a> </p>
 
@@ -19,13 +19,13 @@
 
 - 📫 How to reach me **adimuskaan3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ZTXxsaV9WiXHE_BvYpe22RBcJpNQB2Ak?usp=sharing](https://drive.google.com/drive/folders/1ZTXxsaV9WiXHE_BvYpe22RBcJpNQB2Ak?usp=sharing)
+<!---📄 Know about my experiences [https://drive.google.com/drive/folders/1ZTXxsaV9WiXHE_BvYpe22RBcJpNQB2Ak?usp=sharing](https://drive.google.com/drive/folders/1ZTXxsaV9WiXHE_BvYpe22RBcJpNQB2Ak?usp=sharing)--->
 
 - ⚡ Fun fact **I love Data**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
