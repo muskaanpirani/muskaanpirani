@@ -42,6 +42,6 @@ BLOG-POST-LIST:END
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskaanpirani&show_icons=true&locale=en&layout=compact" alt="muskaanpirani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskaanpirani&show_icons=true&locale=en" alt="muskaanpirani" /></p>
+<!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskaanpirani&show_icons=true&locale=en" alt="muskaanpirani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanpirani&" alt="muskaanpirani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanpirani&" alt="muskaanpirani" /></p>--->
