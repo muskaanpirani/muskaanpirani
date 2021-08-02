@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaanpirani&label=Profile%20views&color=0e75b6&style=flat" alt="muskaanpirani" /> </p>
 
-<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muskaanpirani" alt="muskaanpirani" /></a> </p>--->
-
 <p align="left"> <a href="https://twitter.com/muskaanpirani7" target="blank"><img src="https://img.shields.io/twitter/follow/muskaanpirani7?logo=twitter&style=for-the-badge" alt="muskaanpirani7" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Market Prediction using Deep Learning models**
+- 🔭 I’m currently working on **A.C.E. (Automatic Code Eclectic)**
 
 - 🌱 I’m currently learning **Predictive models (LSTM-based models), Power BI and similar analytics tools**
 
@@ -15,26 +13,26 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muskaanpirani](https://github.com/muskaanpirani)
 
-- 📝 I regularly write articles on [muskaanpirani.medium.com/](muskaanpirani.medium.com/)
+- 📝 I regularly write articles on [https://muskaanpirani.blogspot.com/](https://muskaanpirani.blogspot.com/)
+
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Data Analytics**
 
 - 📫 How to reach me **adimuskaan3@gmail.com**
-
-<!---📄 Know about my experiences [https://drive.google.com/drive/folders/1ZTXxsaV9WiXHE_BvYpe22RBcJpNQB2Ak?usp=sharing](https://drive.google.com/drive/folders/1ZTXxsaV9WiXHE_BvYpe22RBcJpNQB2Ak?usp=sharing)--->
 
 - ⚡ Fun fact **I love Data**
 
 ### Blogs posts
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muskaanpirani7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muskaanpirani7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muskaanpirani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muskaanpirani" height="30" width="40" /></a>
-<a href="https://kaggle.com/muskaanpirani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="muskaanpirani" height="30" width="40" /></a>
-<a href="https://instagram.com/ace.and.apex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ace.and.apex" height="30" width="40" /></a>
-<a href="https://medium.com/@muskaanpirani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@muskaanpirani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muskaanpirani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="muskaanpirani" height="30" width="40" /></a>
+<a href="https://twitter.com/muskaanpirani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muskaanpirani7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muskaanpirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muskaanpirani" height="30" width="40" /></a>
+<a href="https://kaggle.com/muskaanpirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muskaanpirani" height="30" width="40" /></a>
+<a href="https://instagram.com/ace.and.apex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ace.and.apex" height="30" width="40" /></a>
+<a href="https://medium.com/@muskaanpirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muskaanpirani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muskaanpirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muskaanpirani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,6 +40,4 @@ BLOG-POST-LIST:END
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskaanpirani&show_icons=true&locale=en&layout=compact" alt="muskaanpirani" /></p>
 
-<!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskaanpirani&show_icons=true&locale=en" alt="muskaanpirani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskaanpirani&" alt="muskaanpirani" /></p>--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskaanpirani&show_icons=true&locale=en" alt="muskaanpirani" /></p>
