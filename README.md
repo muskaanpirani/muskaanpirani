@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Data Analytics**
 
-- 📫 How to reach me **adimuskaan3@gmail.com**
+- 📫 How to reach me **piranimuskaan@gmail.com**
 
 - ⚡ Fun fact **I love Data**
 
